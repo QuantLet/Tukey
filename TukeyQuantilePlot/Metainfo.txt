@@ -1,0 +1,7 @@
+Name of Quantlet: 'TukeyTransformPlot'
+
+Description: 'TukeyQuantilePlot produces plots displaying the effect on quantiles after the tukey g- and h- transformation'
+
+Keywords: 'tukey, tukeygh, tukeygh transformation, transformation, skew, kurtosis, heavy tails'
+
+Author: 'Alexander Hölzer'
