@@ -1,0 +1,7 @@
+Name of Quantlet: 'TukeyEmpirical'
+
+Description: 'Estimates g and h parameters based on skewness and kurtosis of DAX returns (dax2Y.csv)'
+
+Keywords: 'tukey, tukeygh, tukeygh transformation, transformation, skew, kurtosis, heavy tails'
+
+Author: 'Alexander Hölzer'
