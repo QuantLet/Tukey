@@ -1,8 +1,8 @@
 
 Name of Quantlet: 'TukeyContour'
 
-Description: 'Plots bivariate contour plots of tukey transform parametric curves and standard normal distribution'
+Description: 'TukeyContour produces bivariate parametric contour plots of tukey transformed variables'
 
 Keywords: 'tukey, tukeygh, tukeygh transformation, transformation, skew, kurtosis, heavy tails'
 
-Author: 'Alexander Hölzer'
+Author: 'Natalia Sirotko-Sibirskaya and Alexander Hölzer'
