@@ -1,6 +1,6 @@
 Name of Quantlet: 'TukeyQQ'
 
-Description: 'TukeyQQ plots quantiles based on a simulated sample from Tukey g- and h- transformed variables vs standard normal quantiles. TukeyQQ also plots quantiles based on daily Ether returns'
+Description: 'TukeyQQ plots quantiles based on a simulated sample from Tukey g- and h- transformed variables vs standard normal quantiles. TukeyQQ also plots quantiles based of daily Ether returns'
 
 Keywords: 'tukey, tukeygh, tukeygh transformation, transformation, skew, kurtosis, heavy tails'
 
