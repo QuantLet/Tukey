@@ -1,0 +1,7 @@
+Name of Quantlet: 'TukeyPCurve'
+
+Description: 'TukeyPCurve produces a plot of a parametric curve'
+
+Keywords: 'tukey, tukeygh, tukeygh transformation, transformation, skew, kurtosis, heavy tails'
+
+Author: 'Alexander Hölzer'
