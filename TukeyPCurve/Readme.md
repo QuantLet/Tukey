@@ -6,8 +6,8 @@
 
 Name of Quantlet: 'TukeyPCurve'
 
-Description: 'TukeyPCurve produces parametric plots of Tukey g- and h-transformed variables'
+Description: 'TukeyPCurve produces a plot of a parametric curve'
 
 Keywords: 'tukey, tukeygh, tukeygh transformation, transformation, skew, kurtosis, heavy tails'
 
-Author: 'Natalia Sirotko-Sibirskaya and Alexander Hölzer'
+Author: 'Alexander Hölzer'
