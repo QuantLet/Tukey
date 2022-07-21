@@ -6,4 +6,4 @@ Description: 'TukeyPDF produces parametric plots of Tukey g- and h-transformed v
 
 Keywords: 'tukey, tukeygh, tukeygh transformation, transformation, skew, kurtosis, heavy tails'
 
-Author: 'Natalia Sirotko-Sibirskaya and Alexander Hoelzer'
+Author: 'Natalia Sirotko-Sibirskaya, Alexander Hoelzer'
