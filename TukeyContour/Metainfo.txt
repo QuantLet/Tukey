@@ -1,7 +1,9 @@
 Name of Quantlet: 'TukeyContour'
 
+Published in: "TBC"
+
 Description: 'TukeyContour produces bivariate parametric contour plots of tukey transformed variables'
 
 Keywords: 'tukey, tukeygh, tukeygh transformation, transformation, skew, kurtosis, heavy tails'
 
-Author: 'Natalia Sirotko-Sibirskaya and Alexander Hölzer'
+Author: 'Natalia Sirotko-Sibirskaya and Alexander Hoelzer'
