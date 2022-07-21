@@ -1,5 +1,7 @@
 Name of Quantlet: 'TukeyQuantiles'
 
+Published in: 'TBC'
+
 Description: 'TukeyQuantiles calculates quantiles for g- and h- modified standard normal random variables'
 
 Keywords: 'tukey, tukeygh, tukeygh transformation, transformation, skew, kurtosis, heavy tails'
