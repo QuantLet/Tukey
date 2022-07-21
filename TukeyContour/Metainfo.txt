@@ -1,6 +1,6 @@
 Name of Quantlet: 'TukeyContour'
 
-Published in: "TBC"
+Published in: 'TBC'
 
 Description: 'TukeyContour produces bivariate parametric contour plots of tukey transformed variables'
 
