@@ -6,4 +6,4 @@ Description: 'TukeyQuantiles calculates quantiles for g- and h- modified standar
 
 Keywords: 'tukey, tukeygh, tukeygh transformation, transformation, skew, kurtosis, heavy tails'
 
-Author: 'Natalia Sirotko-Sibirskaya and Alexander Hölzer'
+Author: 'Natalia Sirotko-Sibirskaya and Alexander Hoelzer'
