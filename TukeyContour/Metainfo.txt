@@ -6,4 +6,4 @@ Description: 'TukeyContour produces bivariate parametric contour plots of tukey 
 
 Keywords: 'tukey, tukeygh, tukeygh transformation, transformation, skew, kurtosis, heavy tails'
 
-Author: 'Natalia Sirotko-Sibirskaya and Alexander Hoelzer'
+Author: 'Natalia Sirotko-Sibirskaya, Alexander Hoelzer'
